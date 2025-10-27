@@ -1,5 +1,5 @@
 
-#Explorations in CNC 
+# Explorations in CNC 
 
 Lehrveranstaltung im Industriedesign Hauptprojekt BURG Giebichenstein Kunsthochschule Halle Wintersemester 2025/2026
 
@@ -23,3 +23,7 @@ ___
 
 [Marlin Gcode Reference](https://marlinfw.org/meta/gcode/)
 
+[Food 4 Rhino Plugins](https://www.food4rhino.com/)
+    - [Parakeet Plugin](https://www.food4rhino.com/app/parakeet)
+    - [Pufferfish Plugin](https://www.food4rhino.com/app/pufferfish)
+    - [Wombat Plugin](https://www.food4rhino.com/app/wombat)
