@@ -13,9 +13,11 @@ Integrierte Kompaktwoche in der 3. Semesterwoche des Wintersemesters 2025/2026
 
 ____
 
-[**Grasshopper Intro Tutorials**](GrasshopperIntroTutorials.md)
+[Grasshopper Intro Tutorials](Courses/Explorations_in_CNC/GrasshopperIntroTutorials.md)
 
-[**Grasshopper Pattern Template**](PatternTemplate.md)
+[Grasshopper Pattern Template](Courses/Explorations_in_CNC/PatternTemplate.md)
+
+___
 
 ## Ressources
 
