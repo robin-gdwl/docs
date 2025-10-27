@@ -2,8 +2,8 @@
 
   - [Course Overview](Courses/)
   - [Robotic Timber 2025](Courses/RoboticTimber2025/)
-    - [Intro](Courses/RoboticTimber2025/Intro.md)
   - [Explorations in CNC WiSe 2025](Courses/Explorations_in_CNC/)
+    - [Grasshopper Intro Tutorials](Courses/Explorations_in_CNC/GrasshopperIntroTutorials.md)
     - [Pattern Template](Courses/Explorations_in_CNC/PatternTemplate.md)
 
 - [**Snippets**](Snippets/)

@@ -1,6 +1,8 @@
 # Robotic Timber Connections 2025 
 
-[Intro](Courses/RoboticTimber2025/Intro.md)
+[Intro Presentation: Robots in Art, Design and Architecture](Courses/RoboticTimber2025/Intro.md)
+
+[Grasshopper Intro Tutorials](Courses/RoboticTimber2025/GrasshopperIntro.md)
 
 [Workshop 1 Intro to Robots in Grasshopper](Courses/RoboticTimber2025/Workshop01.md)
 
