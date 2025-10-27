@@ -1,7 +1,7 @@
 - [**Courses**](Courses/)
   - [Robotic Timber 2025](Courses/RoboticTimber2025/)
     - [Intro](Courses/RoboticTimber2025/Intro.md)
-- [Robotic Timber 2025](Courses/RoboticTimber2025/)
+- [Explorations in CNC WiSe 2025](Courses/Explorations_in_CNC/)
     - [Intro](Courses/RoboticTimber2025/Intro.md)
 - [**Snippets**](Snippets/)
   - [Python](Snippets/Python/)
