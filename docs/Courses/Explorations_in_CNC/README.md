@@ -25,11 +25,11 @@ ___
 
 [Food 4 Rhino Plugins](https://www.food4rhino.com/)
 
-    - [Parakeet Plugin](https://www.food4rhino.com/app/parakeet)
+- [Parakeet Plugin](https://www.food4rhino.com/app/parakeet)
 
-    - [Pufferfish Plugin](https://www.food4rhino.com/app/pufferfish)
+- [Pufferfish Plugin](https://www.food4rhino.com/app/pufferfish)
 
-    - [Wombat Plugin](https://www.food4rhino.com/app/wombat)
+- [Wombat Plugin](https://www.food4rhino.com/app/wombat)
 
-    - [Clipper Plugin](https://www.food4rhino.com/en/app/clipper-grasshopper-and-rhino)
-    
+- [Clipper Plugin](https://www.food4rhino.com/en/app/clipper-grasshopper-and-rhino)
+
