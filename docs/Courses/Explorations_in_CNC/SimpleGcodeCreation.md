@@ -2,7 +2,7 @@
 # Simple Gcode Creation in Grasshopper 
 
 
-![Simple Gcode Creation GH Definition](/Courses/Explorations_in_CNC/assets/SimpleGcodeCreation.gh.png)
+![Simple Gcode Creation GH Definition](assets/SimpleGcodeCreation.gh.png)
 
 Diese Grasshopperdefinition zeigt eine vereinfachte Methode zum erstellen von Gcode von einem Mesh. 
 
