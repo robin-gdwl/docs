@@ -19,6 +19,7 @@ ____
 
 [Curve Parameters in Grasshopper](Courses/Explorations_in_CNC/CurveParameters.md)
 
+[Simple Gcode Creation in Grasshopper](Courses/Explorations_in_CNC/SimpleGcodeCreation.md)
 ____
 
 ## Ressources
