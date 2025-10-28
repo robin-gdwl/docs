@@ -14,3 +14,4 @@ Der Kurvenparameter und die Kurvenlänge stehen zwar in Beziehung, sind aber nic
 Um den tatsächlichen Mittelpunkt oder Teilsegmenten zu finden, muss man die Kurvenlänge an einem bestimmten Parameter auswerten oder spezielle Komponenten wie „Evaluate Length“ oder „Curve Middle“ verwenden. 
 Der Parameter ist somit eine normalisierte Koordinate zur Lokalisierung von Punkten, misst aber nicht direkt die Entfernung entlang der Kurve.  
 
+___ 
