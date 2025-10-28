@@ -17,7 +17,9 @@ ____
 
 [Grasshopper Pattern Template](Courses/Explorations_in_CNC/PatternTemplate.md)
 
-___
+[Curve Parameters in Grasshopper](Courses/Explorations_in_CNC/CurveParameters.md)
+
+____
 
 ## Ressources
 
