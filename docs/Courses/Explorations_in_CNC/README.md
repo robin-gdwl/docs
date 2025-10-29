@@ -28,6 +28,9 @@ ____
 
 ## Ressources
 
+[Bestes Grasshopper Erklärungs Tutorial (Deutsch)](https://www.youtube.com/watch?v=ipLAOUlEilA)
+- Erklärt Listen und Data-Trees sehr gut 
+
 [Marlin Gcode Reference](https://marlinfw.org/meta/gcode/)
 
 [Food 4 Rhino Plugins](https://www.food4rhino.com/)
