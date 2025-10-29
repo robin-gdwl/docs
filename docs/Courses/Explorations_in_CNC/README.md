@@ -22,6 +22,8 @@ ____
 [Simple Gcode Creation in Grasshopper](Courses/Explorations_in_CNC/SimpleGcodeCreation.md)
 
 [3D Slot Construction + Nesting](Courses/Explorations_in_CNC/SlotConstruction.md)
+
+[Vector Fields](Courses/Explorations_in_CNC/VectorFields.md)
 ____
 
 ## Ressources
