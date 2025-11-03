@@ -1,6 +1,6 @@
 - [**Courses**](Courses/)
 
-  - [Robotic Timber 25/26](Courses/RoboticTimber_WiSe2025/)
+  - [Robotic Timber WiSe 2025](Courses/RoboticTimber_WiSe2025/)
   - [Explorations in CNC WiSe 2025](Courses/Explorations_in_CNC/)
 
 - [**Snippets**](Snippets/)
