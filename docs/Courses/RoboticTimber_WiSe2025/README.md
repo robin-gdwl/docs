@@ -8,4 +8,4 @@
 
 [Robot Program Template Tutorial](Courses/RoboticTimber_WiSe2025/RobotProgramTemplate.md) 
 
-
+[Robotic Milling Template ](Courses/RoboticTimber_SoSe2025/RoboticMillingTemplate.md) 
