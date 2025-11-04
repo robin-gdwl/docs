@@ -18,7 +18,7 @@ Um den Kurs so praxisnah wie möglich zu gestalten dürft ihr gerne Themen, Obje
 - [Session 05: Baugruppen](Fusion_360_Basicd/CAD1_Session05.md)  
 - [Session 06: Externe Dateien und Rendern](Fusion_360_Basicd/CAD1_Session06.md)  
 - [Session 07: Patterns](Fusion_360_Basicd/CAD1_Session07.md)  
-- [Session 08 ](Fusion_360_Basicd/CAD1_Session08.md)  
+- [Session 08](Fusion_360_Basicd/CAD1_Session08.md)  
 
 
 

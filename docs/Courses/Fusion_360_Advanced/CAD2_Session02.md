@@ -8,8 +8,8 @@
 #### Joints
 
 
-- [ as-built Joint ](https://help.autodesk.com/view/fusion360/ENU/?guid=ASM-AS-BUILT-JOINT-COMMAND)
-- [ Joints ](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A83EFB3E-E7C4-4B78-A842-59069004BDC0)
+- [as-built Joint](https://help.autodesk.com/view/fusion360/ENU/?guid=ASM-AS-BUILT-JOINT-COMMAND)
+- [Joints](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A83EFB3E-E7C4-4B78-A842-59069004BDC0)
   - Rotate
   - Pin-Slot
 
@@ -18,7 +18,7 @@
     - Zuerst Einzelteile erstellen und diese später zusammen fügen
   - Top-Down
     - In einer Komponente/Skizze/Datei mehrer Objekte erstellen und diese Erst im nächsten Schritt Ordnen/Gruppieren
-  - [ Erklärungsvideo Top-Down vs. Bottom-Up modelling ](https://www.youtube.com/watch?v=Tkx5LhmX-5Q)
+  - [Erklärungsvideo Top-Down vs. Bottom-Up modelling](https://www.youtube.com/watch?v=Tkx5LhmX-5Q)
 
 #### Sonstiges
 

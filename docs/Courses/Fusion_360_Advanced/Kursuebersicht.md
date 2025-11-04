@@ -8,12 +8,12 @@ Wie immer habt ihr auch die Möglichkeit eigene Themen, Herstellungsmethoden und
 
 ## Sessions
 
-- [ Session 01: Recap und Übersicht](Fusion_360_Advanced/CAD2_Session01.md)  
-- [ Session 02: Deep-Dive "Assembly"](Fusion_360_Advanced/CAD2_Session02.md)  
-- [ Session 03: Joints Wiederholung](Fusion_360_Advanced/CAD2_Session03.md)  
-- [ Session 04: Freiformen und Rendering Intro](Fusion_360_Advanced/CAD2_Session04.md)  
-- [ Session 05: Parametrik und Blechfunktion](Fusion_360_Advanced/CAD2_Session05.md)  
-- [ Session 06: Externe Dateien Animationen und Zeichnungen](Fusion_360_Advanced/CAD2_Session06.md)  
+- [Session 01: Recap und Übersicht](Fusion_360_Advanced/CAD2_Session01.md)  
+- [Session 02: Deep-Dive "Assembly"](Fusion_360_Advanced/CAD2_Session02.md)  
+- [Session 03: Joints Wiederholung](Fusion_360_Advanced/CAD2_Session03.md)  
+- [Session 04: Freiformen und Rendering Intro](Fusion_360_Advanced/CAD2_Session04.md)  
+- [Session 05: Parametrik und Blechfunktion](Fusion_360_Advanced/CAD2_Session05.md)  
+- [Session 06: Externe Dateien Animationen und Zeichnungen](Fusion_360_Advanced/CAD2_Session06.md)  
 - [Session 07: Design for Manufacturing: Mold-making](Fusion_360_Advanced/CAD2_Session07.md)
 - Session 08  
 
