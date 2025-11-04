@@ -10,15 +10,15 @@ Um den Kurs so praxisnah wie möglich zu gestalten dürft ihr gerne Themen, Obje
 
 ## Sessions
 
-- [Session 01: Einstieg](Fusion_360_Basicd/CAD1_Session01.md)  
-- [Session 02: Deep-Dive "Create"](Fusion_360_Basicd/CAD1_Session02.md)  
-  - [Hausaufgabe: Karaffe](Fusion_360_Basicd/CAD1_Session02?id=hausaufgabe)  
-- [Session 03: "Echte" Objekte modellieren](Fusion_360_Basicd/CAD1_Session03.md)  
-- [Session 04: Freiformen (sculpting)](Fusion_360_Basicd/CAD1_Session04.md)  
-- [Session 05: Baugruppen](Fusion_360_Basicd/CAD1_Session05.md)  
-- [Session 06: Externe Dateien und Rendern](Fusion_360_Basicd/CAD1_Session06.md)  
-- [Session 07: Patterns](Fusion_360_Basicd/CAD1_Session07.md)  
-- [Session 08](Fusion_360_Basicd/CAD1_Session08.md)  
+- [Session 01: Einstieg](Courses/Fusion_360_Basics/CAD1_Session01.md)  
+- [Session 02: Deep-Dive "Create"](Courses/Fusion_360_Basics/CAD1_Session02.md)  
+  - [Hausaufgabe: Karaffe](Courses/Fusion_360_Basics/CAD1_Session02?id=hausaufgabe)  
+- [Session 03: "Echte" Objekte modellieren](Courses/Fusion_360_Basics/CAD1_Session03.md)  
+- [Session 04: Freiformen (sculpting)](Courses/Fusion_360_Basics/CAD1_Session04.md)  
+- [Session 05: Baugruppen](Courses/Fusion_360_Basics/CAD1_Session05.md)  
+- [Session 06: Externe Dateien und Rendern](Courses/Fusion_360_Basics/CAD1_Session06.md)  
+- [Session 07: Patterns](Courses/Fusion_360_Basics/CAD1_Session07.md)  
+- [Session 08](Courses/Fusion_360_Basics/CAD1_Session08.md)  
 
 
 _______________________
