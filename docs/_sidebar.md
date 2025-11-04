@@ -13,8 +13,8 @@
   
 - [Archive](archive.md)
   - [Robotic Timber SoSe 2025](Courses/RoboticTimber_SoSe2025/)
-  - [Fusion 360 Advanced](Courses/Fusion_360_Advanced/)
-  - [Fusion 360 Basics](Courses/Fusion_360_Basics/)
+  - [Fusion 360 Advanced](Courses/Fusion_360_Advanced/Kursuebersicht.md)
+  - [Fusion 360 Basics](Courses/Fusion_360_Basics/Kursuebersicht.md)
 - [imprint / impressum](imprint.md)
 - [privacy policy](privacy.md)
 - [contact](contact.md)
