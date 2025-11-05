@@ -9,3 +9,5 @@
 [Robot Program Template Tutorial](Courses/RoboticTimber_WiSe2025/RobotProgramTemplate.md) 
 
 [Robotic Milling Template](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md) 
+
+[Gruppen und Best-Practices in Grasshopper](Courses/RoboticTimber_WiSe2025/GrasshopperDoubleGroup.md)
