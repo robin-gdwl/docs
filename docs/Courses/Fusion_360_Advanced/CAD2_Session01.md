@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 
 ## Session 1: Recap
 

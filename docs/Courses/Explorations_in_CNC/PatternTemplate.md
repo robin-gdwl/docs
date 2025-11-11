@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # CNC Pattern Template
 
 Das Pattern Template ist eine Grasshopperdefinition die verschiedene Funktionen zum Anordnen und Vervielfältigen von Kurven in Grasshopper bereitstellt. 

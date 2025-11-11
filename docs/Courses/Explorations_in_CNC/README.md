@@ -1,4 +1,4 @@
-
+<!-- markdownlint-disable MD033 -->
 # Explorations in CNC 
 
 Lehrveranstaltung im Industriedesign Hauptprojekt BURG Giebichenstein Kunsthochschule Halle Wintersemester 2025/2026

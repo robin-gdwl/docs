@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # 3D Slot Construction + Nesting 
 
 Dieses Template ermöglicht das Erstellen von 3D Steckverbindungen in Grasshopper.
