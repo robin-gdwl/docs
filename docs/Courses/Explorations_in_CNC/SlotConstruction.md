@@ -14,5 +14,6 @@ Grasshopper Definition herunterladen: [3DSlotConstruction01.gh](https://github.c
 
 Für Slot Construction ist auch das Plugin [BowerBird](https://www.food4rhino.com/app/bowerbird) hilfreich. Es Vereinfacht die Erstellung von Querschnittflächen.
 
+Miro Board mit weiteren Infos zu Slot-Construction: 
 <iframe width="768" height="496" src="https://miro.com/app/live-embed/o9J_lY664nQ=/?focusWidget=3458764646125764684&embedMode=view_only_without_ui&embedId=588036734826" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
