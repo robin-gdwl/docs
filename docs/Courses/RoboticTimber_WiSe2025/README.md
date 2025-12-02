@@ -13,4 +13,6 @@
 [Gruppen und Best-Practices in Grasshopper](Courses/RoboticTimber_WiSe2025/GrasshopperDoubleGroup.md)
 
 [Robot Milling Checkliste](Courses/RoboticTimber_WiSe2025/RobotMillingChecklist.md)
+
+[Plane Orientation from Geometry (02.12.2025)](Courses/RoboticTimber_WiSe2025/PlaneOrientationFromGeometry.md)
 ____
