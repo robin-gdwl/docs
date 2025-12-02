@@ -12,3 +12,5 @@
 
 [Gruppen und Best-Practices in Grasshopper](Courses/RoboticTimber_WiSe2025/GrasshopperDoubleGroup.md)
 
+[Robot Milling Checkliste](Courses/RoboticTimber_WiSe2025/RobotMillingChecklist.md)
+____
