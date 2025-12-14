@@ -2,6 +2,9 @@
 
 Das Milling Process Template ist eine Grasshopper Definition, die verschiedene Frässtrategien und -prozesse für die Bearbeitung von Holz mit dem Roboter UR20 im IKON Institut Braunschweig bereitstellt.
 
+## Download
+[MillingProcesses_Template01.gh](https://drive.google.com/open?id=1vB9cCwIPIZxiXjCfXlxZyjNPah9ZTRU2&usp=drive_fs)
+
 Bisher sind folgende Fräsprozesse im Template enthalten:
 
 - **2.5D Slot Milling**: Fräsen von Schlitzen mit präzisen Abmessungen.
