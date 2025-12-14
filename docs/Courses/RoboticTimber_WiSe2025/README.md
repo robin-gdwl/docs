@@ -16,13 +16,13 @@
 
 [Robot Milling Checkliste](Courses/RoboticTimber_WiSe2025/RobotMillingChecklist.md)
 
-[Plane Orientation from Geometry (02.12.2025)](Courses/RoboticTimber_WiSe2025/PlaneOrientationFromGeometry.md)
+[Plane Orientation from Geometry (Live Tutorial vom 02.12.2025)](Courses/RoboticTimber_WiSe2025/PlaneOrientationFromGeometry.md)
 
 [Robotic Circular Saw Template (WIP)](Courses/RoboticTimber_WiSe2025/RoboticCircularSaw.md)
 
 ## Mail vom 14.12.2025
-[Robotic Milling Template Version 05](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md)
+[Neue Version: Robotic Milling Template Version 05](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md)
 
-[Milling Processes Tutorials](Courses/RoboticTimber_WiSe2025/MillingProcessesTemplate.md)
+[Milling Processes Tutorials (Slot Milling + Pocket Milling)](Courses/RoboticTimber_WiSe2025/MillingProcessesTemplate.md)
 
 ____
