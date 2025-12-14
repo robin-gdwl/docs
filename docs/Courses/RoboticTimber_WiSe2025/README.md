@@ -1,5 +1,6 @@
 # Robotic Timber Connections 2025 
 
+## Workshop 1: 14. + 15.10.2025
 [Intro Presentation: Robots in Art, Design and Architecture](Courses/RoboticTimber_WiSe2025/Intro.md)
 
 [Grasshopper Intro Tutorials](Courses/RoboticTimber_WiSe2025/GrasshopperIntro.md)
@@ -8,6 +9,7 @@
 
 [Robot Program Template Tutorial](Courses/RoboticTimber_WiSe2025/RobotProgramTemplate.md) 
 
+## WOrkshop 2: 04. + 05.11.2025
 [Robotic Milling Template](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md) 
 
 [Gruppen und Best-Practices in Grasshopper](Courses/RoboticTimber_WiSe2025/GrasshopperDoubleGroup.md)
