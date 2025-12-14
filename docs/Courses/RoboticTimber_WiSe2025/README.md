@@ -17,4 +17,10 @@
 [Plane Orientation from Geometry (02.12.2025)](Courses/RoboticTimber_WiSe2025/PlaneOrientationFromGeometry.md)
 
 [Robotic Circular Saw Template (WIP)](Courses/RoboticTimber_WiSe2025/RoboticCircularSaw.md)
+
+## 14.12.2025
+[Milling Template 05](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md)
+
+[Milling Process Template](Courses/RoboticTimber_WiSe2025/MillingProcessesTemplate.md)
+
 ____
