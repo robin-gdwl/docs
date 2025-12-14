@@ -9,7 +9,7 @@
 
 [Robot Program Template Tutorial](Courses/RoboticTimber_WiSe2025/RobotProgramTemplate.md) 
 
-## WOrkshop 2: 04. + 05.11.2025
+## Workshop 2: 04. + 05.11.2025
 [Robotic Milling Template](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md) 
 
 [Gruppen und Best-Practices in Grasshopper](Courses/RoboticTimber_WiSe2025/GrasshopperDoubleGroup.md)
@@ -20,9 +20,9 @@
 
 [Robotic Circular Saw Template (WIP)](Courses/RoboticTimber_WiSe2025/RoboticCircularSaw.md)
 
-## 14.12.2025
-[Milling Template 05](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md)
+## Mail vom 14.12.2025
+[Robotic Milling Template Version 05](Courses/RoboticTimber_WiSe2025/RobotMillingTemplate.md)
 
-[Milling Process Template](Courses/RoboticTimber_WiSe2025/MillingProcessesTemplate.md)
+[Milling Processes Tutorials](Courses/RoboticTimber_WiSe2025/MillingProcessesTemplate.md)
 
 ____
