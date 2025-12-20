@@ -1,10 +1,9 @@
 <!-- markdownlint-disable MD033 -->
-# CNC Toolpath Creation in Grasshopper
+# Simple CNC Toolpath Creation in Grasshopper
 
 This Grasshopper tutorial and definition shows how you can manually create CNC toolpaths for slot and pocket milling using Grasshopper.
 
 **Download** Grasshopper Definition: [MillingProcesses_Template01.gh](https://drive.google.com/open?id=1vB9cCwIPIZxiXjCfXlxZyjNPah9ZTRU2&usp=drive_fs)
-
 
 ## Grasshopper Canvas Overview
 ![Milling Processes Template Canvas Overview](/MillingProcessesTemplate01.png)
