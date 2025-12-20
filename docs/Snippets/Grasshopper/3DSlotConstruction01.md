@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 # 3D Slot Construction + Nesting 
 
-Dieses Template ermöglicht das Erstellen von 3D Steckverbindungen in Grasshopper.
+This Grasshopper tutorial and definition shows how you can use the "Region Slits" component to create slots in panel geometries to create interlocking structures
 
-**Download** Grasshopper Template: [3DSlotConstruction01.gh](https://github.com/robin-gdwl/docs/raw/refs/heads/main/docs/Courses/Explorations_in_CNC/assets/3DSlotConstruction01.gh)
+**Download** Grasshopper Definition: [3DSlotConstruction01.gh](https://github.com/robin-gdwl/docs/raw/refs/heads/main/docs/Courses/Explorations_in_CNC/assets/3DSlotConstruction01.gh)
 
 
 ![3D Slot Construction GH Definition](.../Courses/Explorations_in_CNC/assets/3DSlotConstruction01.gh.png)
