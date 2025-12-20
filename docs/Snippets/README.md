@@ -3,10 +3,10 @@
 
 ___ 
 
-#### Grasshopper Robots Template 
-Grasshopper Definition to create Universal-Robots Motion Commands
+## Grasshopper
 
-#### Curve Analysis in Grasshopper 
-Tutorial on creating and analysing curve parameters in Grasshopper
+**[3D Slot Construction + Nesting](Snippets/Grasshopper/3DSlotConstruction01.md)**
+
+**[CNC Toolpath Creation in Grasshopper](Snippets/Grasshopper/CNCToolpathCreation01.md)**
 
 
