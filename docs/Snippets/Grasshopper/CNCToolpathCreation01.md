@@ -10,8 +10,8 @@ This Grasshopper tutorial and definition shows how you can manually create CNC t
 
 ___
 
-## Video Tutorial Slots Milling Process Template
+## Video Tutorial Slot Milling 
 <iframe width="560" height="400" src="https://www.youtube-nocookie.com/embed/1oGcolOT-7c?si=GqSiSe9Uk6UkmAc6&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Video Tutorial Pocket Milling Process Template
+## Video Tutorial Pocket Milling
 <iframe width="560" height="400" src="https://www.youtube-nocookie.com/embed/AxT6edmyKx4?si=tQntkb5JnZDlOyiW&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
