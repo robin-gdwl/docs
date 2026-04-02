@@ -10,7 +10,7 @@ Hordorfer Str.4<br />
 Robin Godwyll</p>
 
 <h2>Kontakt</h2>
-E-Mail: docs@robingodwyll.de</p>
+E-Mail: docs@robingodwyll.com</p>
 
 <h2>Redaktionell verantwortlich</h2>
 <p>Robin Godwyll <br />
